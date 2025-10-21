@@ -1,4 +1,3 @@
-# Requerimientos: pip install geneticalgorithm numpy
 import numpy as np
 from geneticalgorithm import geneticalgorithm as ga
 
